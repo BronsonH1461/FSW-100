@@ -1,0 +1,38 @@
+h1 {
+    color: darkgreen;
+    font: georgia;
+    font-size: 45px;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+img { 
+    padding-right: 1%;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: justify;
+}
+p { 
+    text-align: justify;
+}
+ul {
+    text-align: justify;
+}
+li {
+    text-align: justify;
+}
+a {
+    text-align: justify;
+}
+body {
+    text-align: justify;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
