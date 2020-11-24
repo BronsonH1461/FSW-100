@@ -30,6 +30,6 @@ a {
 body {
     text-align: justify;
 }
-a:link, a:hover {
+a:hover {
     text-decoration: underline;
 }
